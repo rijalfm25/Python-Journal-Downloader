@@ -1,5 +1,5 @@
 # Python-Journal-Downloader
-<b>Easily journal download with Python</b>
+## <b>Easily journal download with Python</b>
 
 <br>
 
